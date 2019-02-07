@@ -12,4 +12,4 @@ DeepQuestAI in partnership with AI Saturdays Lagos has collected 4000 pictures o
     Dense Traffic
     Accident
     Vehicle on Fire
-Dataset Link: https://www.kaggle.com/hakymulla/hackexpomainhttps://www.kaggle.com/hakymulla/hackexpomain
+Dataset Link: https://www.kaggle.com/hakymulla/hackexpomain
